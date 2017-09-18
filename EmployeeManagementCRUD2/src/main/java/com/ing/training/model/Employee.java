@@ -7,7 +7,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "employee")
 public class Employee {
-	
+	// This is new change.
 	@Column(name = "id")
 	private long id;
 	
