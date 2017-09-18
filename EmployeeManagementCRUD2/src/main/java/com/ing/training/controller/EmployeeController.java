@@ -17,11 +17,7 @@ import com.ing.training.service.EmployeeService;
 @Controller
 public class EmployeeController {
 
-	//ji
-	/* This is for Injection */	
-
-        /*This is the changes in develop branch
-
+	
 	@Inject
 	EmployeeService employeeService;
 	
