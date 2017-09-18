@@ -16,7 +16,10 @@ import com.ing.training.service.EmployeeService;
 
 @Controller
 public class EmployeeController {
+
 	//ji
+	/* This is for Injection */	
+
 	@Inject
 	EmployeeService employeeService;
 	
